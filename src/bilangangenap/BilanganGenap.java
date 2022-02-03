@@ -33,7 +33,7 @@ public class BilanganGenap {
             System.out.println(" Dan Bilangan Anda Genap ");
             System.out.println("Dengan Nominal = " +bilangan);
             System.out.println("------------------------------------------------");
-            System.out.println("---PROGRAM BILANGAN GENAP By Yudha Developer----");
+            System.out.println("---PROGRAM BILANGAN GENAP By Skuy replay -------");
             System.out.println("------------------------------------------------");
         }
         else{
@@ -41,7 +41,7 @@ public class BilanganGenap {
             System.out.println("Dan Bilangan Anda Ganjil ");
             System.out.println("Dengan Nominal = " +bilangan);
             System.out.println("------------------------------------------------");
-            System.out.println("---PROGRAM BILANGAN GENAP By Yudha Developer----");
+            System.out.println("---PROGRAM BILANGAN GENAP By Skuy replay -------");
             System.out.println("------------------------------------------------");
         }
     }
